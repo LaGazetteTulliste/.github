@@ -17,7 +17,7 @@ Rencontrez l'équipe derrière LaGazetteTulliste :
 
 - ### Elliot Moreau
   - **Rôle :** Développeur Web et Co-fondateur
-  - **Âge :** 15 Ans
+  - **Âge :** 16 Ans
   - **Description :** Je développe depuis quelques années maintenant et c'est moi qui ai conçu ce site, permettant à ce projet de devenir concret.
   - **Image :** <br>
   <img src="https://journal.elliotmoreau.fr/static/img/Elliot.jpg" alt="Elliot Moreau" width="150">
