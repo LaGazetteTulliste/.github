@@ -24,21 +24,14 @@ Rencontrez l'équipe derrière LaGazetteTulliste :
 
 - ### Romain Gorse
   - **Rôle :** Rédacteur en chef, Co-fondateur et Reporter
-  - **Âge :** 15 Ans
+  - **Âge :** 16 Ans
   - **Description :** En 2022, j'ai décidé de me lancer dans la rédaction d'un journal numérique avec un de mes amis.
   - **Image :** <br>
   <img src="https://journal.elliotmoreau.fr/static/img/Romain.jpg" alt="Romain Gorse" width="150">
 
-- ### Titouan Soleilhavoup
-  - **Rôle :** Community Manager
-  - **Âge :** 15 Ans
-  - **Description :** Je suis la personne avec le plus de réseaux sociaux de l'équipe. C'est donc moi qui dirige les réseaux.
-  - **Image :** <br>
-  <img src="https://journal.elliotmoreau.fr/static/img/Titouan.jpg" alt="Titouan Soleilhavoup" width="150">
-
 - ### William Laban
   - **Rôle :** Gérant de la partie sport
-  - **Âge :** 15 Ans
+  - **Âge :** 16 Ans
   - **Description :** Gérant de la partie sport.
   - **Image :** <br>
   <img src="https://journal.elliotmoreau.fr/static/img/William.jpg" alt="William Laban" width="150">
